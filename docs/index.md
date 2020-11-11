@@ -11,15 +11,23 @@ writing...
 
 picture: 
 
+![1487](Users\leanagoetze\Desktop\Bren\Fall 2020\ESM267\qgis2web\ESM267-Goetze-webmap\docs\pictures\1487.jpg)
+
+
+
+
+
 ![1487](\Users\leanagoetze\Desktop\Bren\Fall 2020\ESM267\qgis2web\ESM267-Goetze-webmap\docs\pictures\1487.jpg)
 
-```
-<img src="\Users\leanagoetze\Desktop\Bren\Fall 2020\ESM267\qgis2web\ESM267-Goetze-webmap\docs\pictures\1487.jpg" height=H width=W />
-```
+
+
+![1487](\Users\leanagoetze\Desktop\Bren\Fall 2020\ESM267\qgis2web\ESM267-Goetze-webmap\docs\pictures\1487.jpg)
+
+![1487](/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/docs/pictures/1487.jpg)
+
+<img src="/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/docs/pictures/1487.jpg" />
 
 Ta-da!
 
 
-
-<img src="Users\leanagoetze\Desktop\Bren\Fall 2020\ESM267\qgis2web\ESM267-Goetze-webmap\docs\pictures\1487.jpg" height=H width=W />
 
