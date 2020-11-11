@@ -7,7 +7,7 @@ ESM267 Assignment 2: Creating a webmap using qgis2web with GitHub pages
 
 writing...
 
-#### <p style="text-align: center;">Interactive Map Displaying Historic and Current YPMC Tree composition:</p>
+#### <p align = "center">Interactive Map Displaying Historic and Current YPMC Tree composition:</p>
 
 <iframe src="assignment_2_mod/index.html" height=768 width=1024></iframe>
 
@@ -17,11 +17,11 @@ writing...
 
 ##### Angeles National Forest:
 
-2638.jpeg
+<img align="center" src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/2638.jpeg?raw=true" height=400 width=650 />
 
 ##### Cleveland National Forest:
 
-3083.jpeg
+<img align="center" src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/3083.jpeg?raw=true" height=400 width=650 />
 
 ##### Los Padres National Forest:
 
@@ -29,7 +29,9 @@ writing...
 
 ##### San Bernardino National Forest:
 
-0016.jpeg
+<img align="center" src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/0016.jpeg?raw=true" height=400 width=650 />
+
+
 
 
 
