@@ -11,23 +11,29 @@ writing...
 
 picture: 
 
-![1487](Users\leanagoetze\Desktop\Bren\Fall 2020\ESM267\qgis2web\ESM267-Goetze-webmap\docs\pictures\1487.jpg)
 
-
-
-
-
-![1487](\Users\leanagoetze\Desktop\Bren\Fall 2020\ESM267\qgis2web\ESM267-Goetze-webmap\docs\pictures\1487.jpg)
-
-
-
-![1487](\Users\leanagoetze\Desktop\Bren\Fall 2020\ESM267\qgis2web\ESM267-Goetze-webmap\docs\pictures\1487.jpg)
-
-![1487](/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/docs/pictures/1487.jpg)
 
 <img src="/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/docs/pictures/1487.jpg" />
 
+
+
+More:![1487](/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/pictures/1487.jpg)
+
+<img src="/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/pictures/1487.jpg" />
+
+
+
+/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/pictures/1487.jpg
+
+
+
+```
+[Here is the alt text](https://https://leanagoetze.github.io/pictures/1487.jpg "Here is the Title text")
+```
+
 Ta-da!
+
+![Here is the alt text](https://https://leanagoetze.github.io/pictures/1487.jpg "Here is the Title text")
 
 
 
