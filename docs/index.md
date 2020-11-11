@@ -9,31 +9,35 @@ writing...
 
 <iframe src="assignment_2_mod/index.html" height=768 width=1024></iframe>
 
-picture: 
+picture
 
 
 
-<img src="/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/docs/pictures/1487.jpg" />
 
 
 
-More:![1487](/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/pictures/1487.jpg)
-
-<img src="/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/pictures/1487.jpg" />
 
 
-
-/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/pictures/1487.jpg
-
-
-
-```
-[Here is the alt text](https://https://leanagoetze.github.io/pictures/1487.jpg "Here is the Title text")
-```
 
 Ta-da!
 
-![Here is the alt text](https://https://leanagoetze.github.io/pictures/1487.jpg "Here is the Title text")
+
+
+```
+<img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/1487.jpg?raw=true" alt="text" height=H width=W />
+```
+
+
+
+
+
+<img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/1487.jpg?" alt="text" height=H width=W />
+
+
+
+<img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/1487.jpg" alt="text" height=H width=W />
+
+<img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/1487.jpeg" alt="text" height=H width=W />
 
 
 
