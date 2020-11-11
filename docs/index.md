@@ -9,6 +9,8 @@ VTMplots
 
 Forest Inventory....
 
+### <center>Changes to YPMC Tree Density Over Time:</center>
+
 <center><img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/Screen%20Shot%202020-11-11%20at%209.18.32%20AM.png?raw=true" height=400 width=600 /></center>
 
 Figure 1: Historic and Current YPMC Tree Density. Preliminary Analysis 
@@ -17,7 +19,7 @@ Figure 1: Historic and Current YPMC Tree Density. Preliminary Analysis
 
 <iframe src="assignment_2_mod/index.html" height=768 width=1024></iframe>
 
-### <center>Historic Photos of Southern California YPMC</center>
+### <center>A Selection of Historic Photos of Southern California YPMC:</center>
 
 #### Angeles National Forest:
 
