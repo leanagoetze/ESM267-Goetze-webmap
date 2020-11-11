@@ -17,19 +17,23 @@ writing...
 
 ##### Angeles National Forest:
 
-<img align="center" src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/2638.jpeg?raw=true" height=400 width=650 />
+<center><img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/2638.jpeg?raw=true" height=400 width=650 /></center>
 
 ##### Cleveland National Forest:
 
-<img align="center" src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/3083.jpeg?raw=true" height=400 width=650 />
+<center><img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/3083.jpeg?raw=true" height=400 width=650 /></center>
 
 ##### Los Padres National Forest:
 
-<img align="center" src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/weislander-photo_orig.png?raw=true" height=400 width=650 />
+```
+</center>
+```
+
+<center><img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/weislander-photo_orig.png?raw=true" height=400 width=650 /></center)
 
 ##### San Bernardino National Forest:
 
-<img align="center" src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/0016.jpeg?raw=true" height=400 width=650 />
+<center><img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/0016.jpeg?raw=true" height=400 width=650 /></center>
 
 
 
