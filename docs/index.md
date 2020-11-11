@@ -11,7 +11,13 @@ writing...
 
 picture: 
 
-![1533](/Users/leanagoetze/Desktop/GP/VTM_Photos/Los_Padres_NF/1533.jpeg)
+![1487](/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/docs/pictures/1487.jpg)
+
+```
+<img src="/Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/docs/pictures/1487.jpg" height=H width=W />
+
+<img src="Users/leanagoetze/Desktop/Bren/Fall 2020/ESM267/qgis2web/ESM267-Goetze-webmap/docs/pictures/1487.jpg" height=H width=W />
+```
 
 Ta-da!
 
