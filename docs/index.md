@@ -11,4 +11,15 @@ writing...
 
 picture:
 
+
+
+```
+<p align="center">
+```
+
 <img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/1487%20copy.jpeg?raw=true" height=500 width=500 />
+
+```
+</p>
+```
+
