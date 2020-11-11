@@ -45,7 +45,7 @@ Forest Inventory and Analysis (FIA) data made available by the US Forest Service
 
 <center><img src="https://github.com/leanagoetze/ESM267-Goetze-webmap/blob/main/docs/pictures/Screen%20Shot%202020-11-11%20at%209.18.32%20AM.png?raw=true" height=400 width=700 /></center>
 
-**Figure 1: Historic and Current YPMC Tree Density.** Preliminary analysis illustrates that current YPMC forests are denser than historic forests ( 367 trees/hectare as compared to 226 trees/hectare. 
+**Figure 1: Historic and Current YPMC Tree Density.** Preliminary analysis illustrates that current YPMC forests are denser than historic forests (367 trees/hectare as compared to 226 trees/hectare). 
 
 ### <center>Interactive Map Displaying Historic and Current YPMC Tree composition:</center>
 
