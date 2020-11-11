@@ -49,7 +49,7 @@ Forest Inventory and Analysis (FIA) data made available by the US Forest Service
 
 ### <center>Interactive Map Displaying Historic and Current YPMC Tree composition:</center>
 
-Click on forest plots to view species abundance at that site. Select a historic photo site to view photo.
+Click on a forest plot to view species abundance at that site. Select a historic photo site to view photo.
 
 <iframe src="assignment_2_mod/index.html" height=768 width=1024></iframe>
 
